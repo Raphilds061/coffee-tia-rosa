@@ -1,0 +1,130 @@
+[
+    {
+        "nome": "Café Expresso",
+        "preco": 5.0,
+        "ingredientes": [
+            "Café moído",
+            "Água quente"
+        ]
+    },
+    {
+        "nome": "Cappuccino",
+        "preco": 8.0,
+        "ingredientes": [
+            "Café expresso",
+            "Leite vaporizad",
+            "Espuma de leite",
+            "chocolate em pó"
+        ]
+    },
+    {
+        "nome": "Latte (Café com Leite Cremoso)",
+        "preco": 7.5,
+        "ingredientes": [
+            "Café expresso",
+            "Leite vaporizado"
+        ]
+    },
+    {
+        "nome": "Mocha",
+        "preco": 10.0,
+        "ingredientes": [
+            "Café expresso",
+            "Chocolate em calda",
+            "Leite vaporizado",
+            "Chantilly"
+        ]
+    },
+    {
+        "nome": "Café Gelado",
+        "preco": 7.0,
+        "ingredientes": [
+            "Café filtrado",
+            "Leite ou creme",
+            "Açúcar"
+        ]
+    },
+    {
+        "nome": "Chá Gelado de Limão ",
+        "preco": 6.5,
+        "ingredientes": [
+            "Chá preto",
+            " Gelo",
+            " Suco de limão",
+            " Açúcar ou mel"
+        ]
+    },
+    {
+        "nome": "Suco Natural de Laranja",
+        "preco": 8.0,
+        "ingredientes": [
+            "Laranja fresca espremida"
+        ]
+    },
+    {
+        "nome": "Croissant Simples",
+        "preco": 7.0,
+        "ingredientes": [
+            "Farinha de trigo",
+            " Manteiga",
+            " Fermento biológico",
+            " Açúcar",
+            " Sal"
+        ]
+    },
+    {
+        "nome": "Croissant de Chocolate",
+        "preco": 8.5,
+        "ingredientes": [
+            "Massa folhada",
+            " Chocolate meio amargo",
+            " Manteiga",
+            " Açúcar"
+        ]
+    },
+    {
+        "nome": "Bolo de Cenoura com Cobertura de Chocolate",
+        "preco": 6.0,
+        "ingredientes": [
+            "Cenoura",
+            " Ovos",
+            " Açúcar",
+            " Óleo",
+            " Farinha de trigo",
+            " Fermento",
+            " Chocolate em pó",
+            " Leite condensado"
+        ]
+    },
+    {
+        "nome": "Brownie ",
+        "preco": 7.5,
+        "ingredientes": [
+            "Chocolate meio amargo",
+            " Manteiga",
+            " Açúcar",
+            " Ovos",
+            " Farinha de trigo",
+            " Nozes"
+        ]
+    },
+    {
+        "nome": "Pão de Queijo",
+        "preco": 5.5,
+        "ingredientes": [
+            "Polvilho azedo",
+            " Queijo minas ou parmesão",
+            " Leite",
+            " Ovos",
+            " Óleo"
+        ]
+    },
+    {
+        "nome": "Teste",
+        "preco": 5.0,
+        "ingredientes": [
+            "pão",
+            " carne"
+        ]
+    }
+]

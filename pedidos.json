@@ -1,0 +1,447 @@
+[
+    {
+        "cliente": {
+            "nome": "Raphael dos Reis Teixeira",
+            "cpf": "06962422148",
+            "email": "raphaelr329@gmail.com"
+        },
+        "itens": [
+            {
+                "nome": "Teste",
+                "preco": 10.0,
+                "ingredientes": [
+                    "Pão",
+                    " carne",
+                    " queijo"
+                ]
+            }
+        ],
+        "total": 10.0
+    },
+    {
+        "cliente": {
+            "nome": "Samuel",
+            "cpf": "123.123.123-56",
+            "email": "dnakdnkjad@gmail.com"
+        },
+        "itens": [
+            {
+                "nome": "Teste2",
+                "preco": 20.0,
+                "ingredientes": [
+                    "carne",
+                    " queijo"
+                ]
+            }
+        ],
+        "total": 20.0
+    },
+    {
+        "cliente": {
+            "nome": "Enrico Hugo Carlos Fernandes",
+            "cpf": "686.962.145-44",
+            "email": "enrico_hugo_fernandes@unitau.com.br"
+        },
+        "itens": [
+            {
+                "nome": "Teste3",
+                "preco": 10.0,
+                "ingredientes": [
+                    "Pão",
+                    " carne",
+                    " queijo"
+                ]
+            },
+            {
+                "nome": "Teste2",
+                "preco": 10.0,
+                "ingredientes": [
+                    "Pão",
+                    " carne",
+                    " queijo"
+                ]
+            }
+        ],
+        "total": 20.0
+    },
+    {
+        "cliente": {
+            "nome": "Enrico Hugo Carlos Fernandes",
+            "cpf": "686.962.145-44",
+            "email": "enrico_hugo_fernandes@unitau.com.br"
+        },
+        "itens": [
+            {
+                "nome": "Teste2",
+                "preco": 10.0,
+                "ingredientes": [
+                    "Pão",
+                    " carne",
+                    " queijo"
+                ]
+            }
+        ],
+        "total": 10.0
+    },
+    {
+        "cliente": {
+            "nome": "Enrico Hugo Carlos Fernandes",
+            "cpf": "686.962.145-44",
+            "email": "enrico_hugo_fernandes@unitau.com.br"
+        },
+        "itens": [
+            {
+                "nome": "Teste",
+                "preco": 10.0,
+                "ingredientes": [
+                    "Pão",
+                    " carne",
+                    " queijo"
+                ]
+            }
+        ],
+        "total": 10.0
+    },
+    {
+        "cliente": {
+            "nome": "Enrico Hugo Carlos Fernandes",
+            "cpf": "686.962.145-44",
+            "email": "enrico_hugo_fernandes@unitau.com.br"
+        },
+        "itens": [
+            {
+                "nome": "Teste",
+                "preco": 10.0,
+                "ingredientes": [
+                    "Pão",
+                    " carne",
+                    " queijo"
+                ]
+            }
+        ],
+        "total": 10.0
+    },
+    {
+        "cliente": {
+            "nome": "Enrico Hugo Carlos Fernandes",
+            "cpf": "686.962.145-44",
+            "email": "enrico_hugo_fernandes@unitau.com.br"
+        },
+        "itens": [
+            {
+                "nome": "Café Expresso",
+                "preco": 5.0,
+                "ingredientes": [
+                    "Café moído",
+                    "Água quente"
+                ]
+            }
+        ],
+        "total": 5.0
+    },
+    {
+        "cliente": {
+            "nome": "Enrico Hugo Carlos Fernandes",
+            "cpf": "686.962.145-44",
+            "email": "enrico_hugo_fernandes@unitau.com.br"
+        },
+        "itens": [
+            {
+                "nome": "Cappuccino",
+                "preco": 8.0,
+                "ingredientes": [
+                    "Café expresso",
+                    "Leite vaporizad",
+                    "Espuma de leite",
+                    "chocolate em pó"
+                ]
+            }
+        ],
+        "total": 8.0
+    },
+    {
+        "cliente": {
+            "nome": "Heloise Raimunda Pires",
+            "cpf": "832.275.763-84",
+            "email": "heloise-pires86@care-br.com"
+        },
+        "itens": [
+            {
+                "nome": "Pão de Queijo",
+                "preco": 5.5,
+                "ingredientes": [
+                    "Polvilho azedo",
+                    " Queijo minas ou parmesão",
+                    " Leite",
+                    " Ovos",
+                    " Óleo"
+                ]
+            }
+        ],
+        "total": 5.5
+    },
+    {
+        "cliente": {
+            "nome": "Carolina Malu Viana",
+            "cpf": "207.674.025-29",
+            "email": "carolina-viana79@soulcomunicacao.com.br"
+        },
+        "itens": [
+            {
+                "nome": "Cappuccino",
+                "preco": 8.0,
+                "ingredientes": [
+                    "Café expresso",
+                    "Leite vaporizad",
+                    "Espuma de leite",
+                    "chocolate em pó"
+                ]
+            }
+        ],
+        "total": 8.0
+    },
+    {
+        "cliente": {
+            "nome": "Heloise Raimunda Pires",
+            "cpf": "832.275.763-84",
+            "email": "heloise-pires86@care-br.com"
+        },
+        "itens": [
+            {
+                "nome": "Café Expresso",
+                "preco": 5.0,
+                "ingredientes": [
+                    "Café moído",
+                    "Água quente"
+                ]
+            }
+        ],
+        "total": 5.0
+    },
+    {
+        "cliente": {
+            "nome": "Enrico Hugo Carlos Fernandes",
+            "cpf": "686.962.145-44",
+            "email": "enrico_hugo_fernandes@unitau.com.br"
+        },
+        "itens": [
+            {
+                "nome": "Café Expresso",
+                "preco": 5.0,
+                "ingredientes": [
+                    "Café moído",
+                    "Água quente"
+                ]
+            },
+            {
+                "nome": "Café Gelado",
+                "preco": 7.0,
+                "ingredientes": [
+                    "Café filtrado",
+                    "Leite ou creme",
+                    "Açúcar"
+                ]
+            },
+            {
+                "nome": "Chá Gelado de Limão ",
+                "preco": 6.5,
+                "ingredientes": [
+                    "Chá preto",
+                    " Gelo",
+                    " Suco de limão",
+                    " Açúcar ou mel"
+                ]
+            },
+            {
+                "nome": "Cappuccino",
+                "preco": 8.0,
+                "ingredientes": [
+                    "Café expresso",
+                    "Leite vaporizad",
+                    "Espuma de leite",
+                    "chocolate em pó"
+                ]
+            }
+        ],
+        "total": 26.5
+    },
+    {
+        "cliente": {
+            "nome": "Heloise Raimunda Pires",
+            "cpf": "832.275.763-84",
+            "email": "heloise-pires86@care-br.com"
+        },
+        "itens": [
+            {
+                "nome": "Café Expresso",
+                "preco": 5.0,
+                "ingredientes": [
+                    "Café moído",
+                    "Água quente"
+                ]
+            },
+            {
+                "nome": "Cappuccino",
+                "preco": 8.0,
+                "ingredientes": [
+                    "Café expresso",
+                    "Leite vaporizad",
+                    "Espuma de leite",
+                    "chocolate em pó"
+                ]
+            },
+            {
+                "nome": "Latte (Café com Leite Cremoso)",
+                "preco": 7.5,
+                "ingredientes": [
+                    "Café expresso",
+                    "Leite vaporizado"
+                ]
+            },
+            {
+                "nome": "Mocha",
+                "preco": 10.0,
+                "ingredientes": [
+                    "Café expresso",
+                    "Chocolate em calda",
+                    "Leite vaporizado",
+                    "Chantilly"
+                ]
+            },
+            {
+                "nome": "Café Gelado",
+                "preco": 7.0,
+                "ingredientes": [
+                    "Café filtrado",
+                    "Leite ou creme",
+                    "Açúcar"
+                ]
+            },
+            {
+                "nome": "Chá Gelado de Limão ",
+                "preco": 6.5,
+                "ingredientes": [
+                    "Chá preto",
+                    " Gelo",
+                    " Suco de limão",
+                    " Açúcar ou mel"
+                ]
+            },
+            {
+                "nome": "Suco Natural de Laranja",
+                "preco": 8.0,
+                "ingredientes": [
+                    "Laranja fresca espremida"
+                ]
+            }
+        ],
+        "total": 52.0
+    },
+    {
+        "cliente": {
+            "nome": "Enrico Hugo Carlos Fernandes",
+            "cpf": "686.962.145-44",
+            "email": "enrico_hugo_fernandes@unitau.com.br"
+        },
+        "itens": [
+            {
+                "nome": "Café Expresso",
+                "preco": 5.0,
+                "ingredientes": [
+                    "Café moído",
+                    "Água quente"
+                ]
+            },
+            {
+                "nome": "Cappuccino",
+                "preco": 8.0,
+                "ingredientes": [
+                    "Café expresso",
+                    "Leite vaporizad",
+                    "Espuma de leite",
+                    "chocolate em pó"
+                ]
+            },
+            {
+                "nome": "Latte (Café com Leite Cremoso)",
+                "preco": 7.5,
+                "ingredientes": [
+                    "Café expresso",
+                    "Leite vaporizado"
+                ]
+            }
+        ],
+        "total": 20.5
+    },
+    {
+        "cliente": {
+            "nome": "Raphael",
+            "cpf": "a",
+            "numero": "a",
+            "email": "py"
+        },
+        "itens": [
+            {
+                "nome": "Bolo de Cenoura com Cobertura de Chocolate",
+                "preco": 6.0,
+                "ingredientes": [
+                    "Cenoura",
+                    " Ovos",
+                    " Açúcar",
+                    " Óleo",
+                    " Farinha de trigo",
+                    " Fermento",
+                    " Chocolate em pó",
+                    " Leite condensado"
+                ]
+            },
+            {
+                "nome": "Pão de Queijo",
+                "preco": 5.5,
+                "ingredientes": [
+                    "Polvilho azedo",
+                    " Queijo minas ou parmesão",
+                    " Leite",
+                    " Ovos",
+                    " Óleo"
+                ]
+            },
+            {
+                "nome": "Croissant de Chocolate",
+                "preco": 8.5,
+                "ingredientes": [
+                    "Massa folhada",
+                    " Chocolate meio amargo",
+                    " Manteiga",
+                    " Açúcar"
+                ]
+            }
+        ],
+        "total": 20.0
+    },
+    {
+        "cliente": {
+            "nome": "Raphael Teste",
+            "cpf": "921831920",
+            "numero": "61 99807465",
+            "email": "raphaelr@gmail.com"
+        },
+        "itens": [
+            {
+                "nome": "Bolo de Cenoura com Cobertura de Chocolate",
+                "preco": 6.0,
+                "ingredientes": [
+                    "Cenoura",
+                    " Ovos",
+                    " Açúcar",
+                    " Óleo",
+                    " Farinha de trigo",
+                    " Fermento",
+                    " Chocolate em pó",
+                    " Leite condensado"
+                ]
+            }
+        ],
+        "total": 6.0
+    }
+]
