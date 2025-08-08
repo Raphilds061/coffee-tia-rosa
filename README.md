@@ -1,4 +1,4 @@
-☕ Sistema: [c̲̅σ̲̅f̲̅f̲̅є̲̅є̲̅-̲̅т̲̅i̲̅α̲̅-̲̅я̲̅σ̲̅s̲̅α̲̅]
+☕ Sistema: [c̲̅σ̲̅f̲̅f̲̅є̲̅є̲̅-̲̅т̲̅i̲̅α̲̅-̲̅я̲̅σ̲̅s̲̅α̲̅] ☕
 
 📌 Objetivo 📌
 Gerenciar de forma simples e eficiente:
@@ -69,3 +69,19 @@ Opções numeradas para facilitar o uso
 Loop contínuo até que o usuário escolha "Sair"
 
 <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/c2216509-5e59-4c36-a51f-dc75b1de5640" />
+
+
+
+Com esse projeto, aprendi a criar um sistema simples para gerenciar produtos, clientes e pedidos usando Python. Entendi como salvar dados em arquivos, organizar o código em funções, criar menus no terminal e usar estruturas de repetição e condição para controlar o programa. Como foi o meu primeiro contato com algo assim foi muito bom, fora que as aulas e os livros me ajudaram muito, meus colegas também me ajudaram com alguns erros e conseguir finalizar a tempo e sem nenhum erro aparente.
+
+☕ PRINTS E VÍDEOS DE FUNCIONAMENTO; ☕
+
+🔧 Acesse: https://www.youtube.com/watch?v=jr8TPKoL164
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/f577aedf-ee55-4d99-a78c-6e5d90a3bb72" />
+
+
+
+
+
+
